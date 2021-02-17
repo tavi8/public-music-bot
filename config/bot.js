@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODAxNTIzMTkyMTUzNzY3OTU3.YAh6pA.zKpCan8y-5bWFYiu9o-IAkvqiAA',
+        token: 'TOKEN-UL BOTULUI TAU',
         prefix: 'm!',
         activity: 'm!help',
     },
